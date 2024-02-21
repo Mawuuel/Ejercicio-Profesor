@@ -75,3 +75,29 @@ body{
     color: white;
     transform: scale(1.1);
 }
+
+
+
+.imagenes{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.cms1 img{
+    height: 20vh;
+    width: 15vh;
+    margin: 5px;
+    border-radius: 10vh;
+}
+
+.cms2 img{
+    height: 20vh;
+    width: 15vh;
+    margin: 5px;
+    border-radius: 10vh;
+}
+
+
